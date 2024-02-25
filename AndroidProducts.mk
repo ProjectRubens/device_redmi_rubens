@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_generic.mk
+    $(LOCAL_DIR)/rising_rubens.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_generic-user \
-    lineage_generic-userdebug \
-    lineage_generic-eng
+    rising_rubens-user \
+    rising_rubens-userdebug \
+    rising_rubens-eng
