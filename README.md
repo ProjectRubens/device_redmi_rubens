@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-```
+
 # Device tree for Redmi K50 (rubens)
 
 The Redmi K50 (codenamed _"rubens"_) is a high-end, mid-range smartphone from Xiaomi.
