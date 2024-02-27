@@ -17,11 +17,14 @@ $(call inherit-product, device/xiaomi/rubens/device.mk)
 PRODUCT_DEVICE := rubens
 PRODUCT_NAME := rising_rubens
 PRODUCT_BRAND := Xiaomi
+PRODUCT_MODEL := 22041211AC
 PRODUCT_MANUFACTURER := xiaomi
+
+PRODUCT_CHARACTERISTICS := nosdcard
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="missi_phone_cn-user 14 UP1A.231005.007 V816.0.2.0.ULNCNXM release-keys"
 
-BUILD_FINGERPRINT := Android/missi_phone_cn/missi:14/UP1A.231005.007/V816.0.2.0.ULNCNXM:user/release-keys
+BUILD_FINGERPRINT := Redmi/rubens/rubens:14/UP1A.231005.007/V816.0.2.0.ULNCNXM:user/release-keys
